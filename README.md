@@ -34,4 +34,27 @@ Regd. No. - 2241013159
  
  - [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 
+   ## Screenshots
+
+- [Q1_1068](https://cses.fi/problemset/view/1068/)
+
+- [Q2_1083](https://cses.fi/problemset/view/1083/)
+
+- [Q3_1069](https://cses.fi/problemset/view/1069/)
+
+- [Q4_1070](https://cses.fi/problemset/view/1070/)
+
+- [Q5_1071](https://cses.fi/problemset/view/1071/)
+
+- [Q6_1072](https://cses.fi/problemset/view/1072/)
+
+- [Q7_1092](https://cses.fi/problemset/view/1092/)
+
+- [Q8_1617](https://cses.fi/problemset/view/1617/)
+
+- [Q9_1618](https://cses.fi/problemset/view/1618/)
+
+- [Q10_1755](https://cses.fi/problemset/view/1755/)
+
+
 
