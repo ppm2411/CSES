@@ -26,7 +26,7 @@ Regd. No. - 2241013159
  
  - [Two Knights](https://cses.fi/problemset/task/1072)
  
- - [Two Sets](https://cses.fi/problemset/task/1092)
+ - [Coin Piles](https://cses.fi/problemset/task/1754)
  
  - [Bit Strings](https://cses.fi/problemset/task/1617)
  
